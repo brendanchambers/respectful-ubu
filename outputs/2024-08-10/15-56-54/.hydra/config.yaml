@@ -1,0 +1,7 @@
+top_url: https://ubuweb.com/vp/index.html
+pause_seconds: 10
+directory_inclusion_filter: /vp/
+file_inclusion_filter: .pdf
+max_nodes: 4
+project_dir: /home/brch/personal_projects/github/brendanchambers/respectful-ubu
+out_dir: data/respectful_mirror/visual_poetry
